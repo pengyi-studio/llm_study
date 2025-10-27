@@ -2,6 +2,11 @@
 # 这是一个简单的function calling的demo，生成回复并不稳定，但搭建的过程让我掌握了agent的基本思想，对agent有了一个初步的认识
 
 # 需要自己创建.env文件（第一次上传没搞好）
+SERPER_API_KEY=""
+GAODE_WEATHER_API_KEY=""
+BASE_URL="https://api.deepseek.com/v1"
+MODEL="deepseek-chat"
+DEEPSEEK_API_KEY=""
 
 
 # AI 旅行助手悠悠
